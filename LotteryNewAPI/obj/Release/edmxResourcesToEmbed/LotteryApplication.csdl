@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LotteryBlankDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Box_Master">
+    <Key>
+      <PropertyRef Name="Box_Id" />
+    </Key>
+    <Property Name="Box_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Id" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Existing_Inventory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Game_Id" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Packet_Id" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Total_Count" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="New_Inventory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Game_Id" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Packet_Id" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Lottery_Name" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Start_Date" Type="DateTime" Precision="0" />
+    <Property Name="Expiration" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="tblActivated_Tickets">
+    <Key>
+      <PropertyRef Name="Activate_Id" />
+    </Key>
+    <Property Name="Activate_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Activation_Date" Type="DateTime" Precision="0" />
+    <Property Name="Start_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="End_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="Time" Type="Time" Precision="7" />
+    <Property Name="Stopped_At" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Count" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Total_Price" Type="Int32" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblBarcode_Format">
+    <Key>
+      <PropertyRef Name="BarcodeFormatID" />
+    </Key>
+    <Property Name="BarcodeFormatID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TotalLengthofBarcode" Type="Int32" />
+    <Property Name="GameIDRange_From" Type="Int32" />
+    <Property Name="GameIDRange_To" Type="Int32" />
+    <Property Name="PacketIDRange_From" Type="Int32" />
+    <Property Name="PacketIDRange_To" Type="Int32" />
+    <Property Name="SequenceNo_From" Type="Int32" />
+    <Property Name="SequenceNo_To" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblBox">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Box_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Paket_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Rate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Quantity" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Total" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="E_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblClose_Box">
+    <Key>
+      <PropertyRef Name="CloseBox_Id" />
+    </Key>
+    <Property Name="CloseBox_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Start_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="End_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Close_At" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Count" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Total_Price" Type="Int32" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblDeactivated">
+    <Key>
+      <PropertyRef Name="Deactivate_Id" />
+    </Key>
+    <Property Name="Deactivate_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_On" Type="DateTime" Precision="0" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Stopped_At" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Start_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblEmployee_Details">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BirthDate" Type="DateTime" Precision="0" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="StoreId" Type="Int32" Nullable="false" />
+    <Property Name="EmailId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailId1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailId2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsManager" Type="Boolean" />
+    <Property Name="IsEmployee" Type="Boolean" />
+    <Property Name="IsAssignStore" Type="Boolean" />
+    <Property Name="Contact" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="IsRememberMe" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tblLogin_Details">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="ShiftId" Type="Int32" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblLottery_Inventory">
+    <Key>
+      <PropertyRef Name="Master_ListID" />
+    </Key>
+    <Property Name="Master_ListID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GameID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TicketName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Start_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="End_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Count" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Id" Type="Int32" />
+    <Property Name="Employee_Id" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblRecievedTicket">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Count" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Int32" />
+    <Property Name="Total_Price" Type="Int32" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_On" Type="DateTime" Precision="0" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Start_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="End_No" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Stopped_At" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IsDelete" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblReturnticket">
+    <Key>
+      <PropertyRef Name="Returnticket_Id" />
+    </Key>
+    <Property Name="Returnticket_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_On" Type="DateTime" Precision="0" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Open" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Close" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Return_At" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmplyeeeId" Type="Int32" />
+    <Property Name="Count" Type="Int32" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblSettleTicket">
+    <Key>
+      <PropertyRef Name="SettleTicket_Id" />
+    </Key>
+    <Property Name="SettleTicket_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_On" Type="DateTime" Precision="0" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Open" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Close" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblShift">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ShiftID" Type="Int32" Nullable="false" />
+    <Property Name="StartTime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EndTime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StoreId" Type="Int32" Nullable="false" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="IsLastShift" Type="Boolean" />
+    <Property Name="IsClose" Type="Boolean" />
+    <Property Name="CloseDate" Type="DateTime" Precision="0" />
+    <Property Name="IsReportGenerated" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tblSoldout">
+    <Key>
+      <PropertyRef Name="Soldout_Id" />
+    </Key>
+    <Property Name="Soldout_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Box_No" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_On" Type="DateTime" Precision="0" />
+    <Property Name="Ticket_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Open" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PackPosition_Close" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RemainingTickets" Type="Int32" />
+    <Property Name="Total_Tickets" Type="Int32" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Partial_Packet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Store_Id" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblSoldOut_History">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Packet_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SoldOut_Date" Type="DateTime" Precision="0" />
+    <Property Name="No_of_Tickets_Sold" Type="Int32" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Shift_Id" Type="Int32" />
+  </EntityType>
+  <EntityType Name="tblStore_Info">
+    <Key>
+      <PropertyRef Name="Store_Id" />
+    </Key>
+    <Property Name="Store_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Store_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Open_Time" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Close_Time" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="No_Of_Boxes" Type="Int32" />
+    <Property Name="EmailId1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailId2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="EmailId3" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Store_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Settlement_Day" Type="Int32" />
+    <Property Name="Auto_Settle" Type="Boolean" />
+    <Property Name="Store_Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email1_On_Off" Type="Boolean" />
+    <Property Name="Email2_On_Off" Type="Boolean" />
+    <Property Name="Email3_On_Off" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="tblStoreEmployeeInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StoreId" Type="Int32" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <Property Name="Store_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Employee_Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblTerminal_Data1">
+    <Key>
+      <PropertyRef Name="TerminalData_Id1" />
+    </Key>
+    <Property Name="TerminalData_Id1" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Scratch_Payout" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Online_Sells" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Online_Payout" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Loan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Cash_On_Hand" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Credit" Type="Int32" Nullable="false" />
+    <Property Name="Debit" Type="Int32" Nullable="false" />
+    <Property Name="Top_Up_Cancel" Type="Int32" Nullable="false" />
+    <Property Name="Top_Up" Type="Int32" Nullable="false" />
+    <Property Name="Store_Id" Type="Int32" />
+    <Property Name="Employee_Id" Type="Int32" />
+    <Property Name="Issued_Inventory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="InStock_Inventory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Active_Inventory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Total" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Scratch_Sells" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ShiftID" Type="Int32" />
+    <Property Name="Date" Type="DateTime" Precision="0" />
+    <Property Name="CountRecevied" Type="Int32" />
+    <Property Name="CountActive" Type="Int32" />
+    <Property Name="Total_Stock_Inventory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Total_Active_Inventory" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Net_Cash" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="User_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="User_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="U_Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Mobile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Shop_id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Shop_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="S_Code" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TicketMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Game_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Created_On" Type="DateTime" Precision="0" />
+    <Property Name="Modified_ON" Type="DateTime" Precision="0" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="LotteryBlankDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Box_Master" EntityType="Self.Box_Master" />
+    <EntitySet Name="Existing_Inventory" EntityType="Self.Existing_Inventory" />
+    <EntitySet Name="New_Inventory" EntityType="Self.New_Inventory" />
+    <EntitySet Name="tblActivated_Tickets" EntityType="Self.tblActivated_Tickets" />
+    <EntitySet Name="tblBarcode_Format" EntityType="Self.tblBarcode_Format" />
+    <EntitySet Name="tblBoxes" EntityType="Self.tblBox" />
+    <EntitySet Name="tblClose_Box" EntityType="Self.tblClose_Box" />
+    <EntitySet Name="tblDeactivateds" EntityType="Self.tblDeactivated" />
+    <EntitySet Name="tblEmployee_Details" EntityType="Self.tblEmployee_Details" />
+    <EntitySet Name="tblLogin_Details" EntityType="Self.tblLogin_Details" />
+    <EntitySet Name="tblLottery_Inventory" EntityType="Self.tblLottery_Inventory" />
+    <EntitySet Name="tblRecievedTickets" EntityType="Self.tblRecievedTicket" />
+    <EntitySet Name="tblReturntickets" EntityType="Self.tblReturnticket" />
+    <EntitySet Name="tblSettleTickets" EntityType="Self.tblSettleTicket" />
+    <EntitySet Name="tblShifts" EntityType="Self.tblShift" />
+    <EntitySet Name="tblSoldouts" EntityType="Self.tblSoldout" />
+    <EntitySet Name="tblSoldOut_History" EntityType="Self.tblSoldOut_History" />
+    <EntitySet Name="tblStore_Info" EntityType="Self.tblStore_Info" />
+    <EntitySet Name="tblStoreEmployeeInfoes" EntityType="Self.tblStoreEmployeeInfo" />
+    <EntitySet Name="tblTerminal_Data1" EntityType="Self.tblTerminal_Data1" />
+    <EntitySet Name="tblUsers" EntityType="Self.tblUser" />
+    <EntitySet Name="TicketMasters" EntityType="Self.TicketMaster" />
+  </EntityContainer>
+</Schema>

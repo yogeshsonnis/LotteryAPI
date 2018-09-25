@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LotteryBlankDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Box_Master">
+    <Key>
+      <PropertyRef Name="Box_Id" />
+    </Key>
+    <Property Name="Box_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="Existing_Inventory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Game_Id" Type="varchar" MaxLength="15" />
+    <Property Name="Packet_Id" Type="varchar" MaxLength="15" />
+    <Property Name="Total_Count" Type="int" />
+    <Property Name="Status" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="New_Inventory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Game_Id" Type="varchar" MaxLength="15" />
+    <Property Name="Packet_Id" Type="varchar" MaxLength="15" />
+    <Property Name="Lottery_Name" Type="varchar" MaxLength="15" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Start_Date" Type="date" />
+    <Property Name="Expiration" Type="date" />
+  </EntityType>
+  <EntityType Name="tblActivated_Tickets">
+    <Key>
+      <PropertyRef Name="Activate_Id" />
+    </Key>
+    <Property Name="Activate_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" Nullable="false" />
+    <Property Name="Activation_Date" Type="date" />
+    <Property Name="Start_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="End_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Date" Type="date" />
+    <Property Name="Time" Type="time" Precision="7" />
+    <Property Name="Stopped_At" Type="nvarchar" MaxLength="50" />
+    <Property Name="Count" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Total_Price" Type="int" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblBarcode_Format">
+    <Key>
+      <PropertyRef Name="BarcodeFormatID" />
+    </Key>
+    <Property Name="BarcodeFormatID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="TotalLengthofBarcode" Type="int" />
+    <Property Name="GameIDRange_From" Type="int" />
+    <Property Name="GameIDRange_To" Type="int" />
+    <Property Name="PacketIDRange_From" Type="int" />
+    <Property Name="PacketIDRange_To" Type="int" />
+    <Property Name="SequenceNo_From" Type="int" />
+    <Property Name="SequenceNo_To" Type="int" />
+  </EntityType>
+  <EntityType Name="tblBox">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Box_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Paket_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Rate" Type="nvarchar" MaxLength="50" />
+    <Property Name="Quantity" Type="nvarchar" MaxLength="50" />
+    <Property Name="Total" Type="nvarchar" MaxLength="50" />
+    <Property Name="Date" Type="date" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="E_Id" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblClose_Box">
+    <Key>
+      <PropertyRef Name="CloseBox_Id" />
+    </Key>
+    <Property Name="CloseBox_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Start_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="End_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Close_At" Type="nvarchar" MaxLength="50" />
+    <Property Name="Count" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Total_Price" Type="int" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblDeactivated">
+    <Key>
+      <PropertyRef Name="Deactivate_Id" />
+    </Key>
+    <Property Name="Deactivate_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_On" Type="date" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Stopped_At" Type="nvarchar" MaxLength="50" />
+    <Property Name="Start_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblEmployee_Details">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmployeeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="BirthDate" Type="date" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="StoreId" Type="int" Nullable="false" />
+    <Property Name="EmailId" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailId1" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailId2" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsManager" Type="bit" />
+    <Property Name="IsEmployee" Type="bit" />
+    <Property Name="IsAssignStore" Type="bit" />
+    <Property Name="Contact" Type="varchar" MaxLength="50" />
+    <Property Name="IsRememberMe" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblLogin_Details">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Date" Type="date" />
+    <Property Name="ShiftId" Type="int" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblLottery_Inventory">
+    <Key>
+      <PropertyRef Name="Master_ListID" />
+    </Key>
+    <Property Name="Master_ListID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GameID" Type="nvarchar" MaxLength="50" />
+    <Property Name="TicketName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Start_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="End_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="Count" Type="nvarchar" MaxLength="50" />
+    <Property Name="Date" Type="date" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Id" Type="int" />
+    <Property Name="Employee_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="tblRecievedTickets">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Count" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="int" />
+    <Property Name="Total_Price" Type="int" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_On" Type="date" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Start_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="End_No" Type="nvarchar" MaxLength="50" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Stopped_At" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsDelete" Type="char" MaxLength="10" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblReturnticket">
+    <Key>
+      <PropertyRef Name="Returnticket_Id" />
+    </Key>
+    <Property Name="Returnticket_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_On" Type="date" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Open" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Close" Type="nvarchar" MaxLength="50" />
+    <Property Name="Return_At" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmplyeeeId" Type="int" />
+    <Property Name="Count" Type="int" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblSettleTicket">
+    <Key>
+      <PropertyRef Name="SettleTicket_Id" />
+    </Key>
+    <Property Name="SettleTicket_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_On" Type="date" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Open" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Close" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblShift">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ShiftID" Type="int" Nullable="false" />
+    <Property Name="StartTime" Type="nvarchar" MaxLength="50" />
+    <Property Name="EndTime" Type="nvarchar" MaxLength="50" />
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StoreId" Type="int" Nullable="false" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Date" Type="date" />
+    <Property Name="IsLastShift" Type="bit" />
+    <Property Name="IsClose" Type="bit" />
+    <Property Name="CloseDate" Type="date" />
+    <Property Name="IsReportGenerated" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblSoldout">
+    <Key>
+      <PropertyRef Name="Soldout_Id" />
+    </Key>
+    <Property Name="Soldout_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Box_No" Type="int" />
+    <Property Name="Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_On" Type="date" />
+    <Property Name="Ticket_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Price" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Open" Type="nvarchar" MaxLength="50" />
+    <Property Name="PackPosition_Close" Type="nvarchar" MaxLength="50" />
+    <Property Name="RemainingTickets" Type="int" />
+    <Property Name="Total_Tickets" Type="int" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="Partial_Packet" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Store_Id" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="tblSoldOut_History">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Packet_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoldOut_Date" Type="date" />
+    <Property Name="No_of_Tickets_Sold" Type="int" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Shift_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="tblStore_Info">
+    <Key>
+      <PropertyRef Name="Store_Id" />
+    </Key>
+    <Property Name="Store_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Store_Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Open_Time" Type="nvarchar" MaxLength="50" />
+    <Property Name="Close_Time" Type="nvarchar" MaxLength="50" />
+    <Property Name="No_Of_Boxes" Type="int" />
+    <Property Name="EmailId1" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailId2" Type="nvarchar" MaxLength="50" />
+    <Property Name="EmailId3" Type="nvarchar" MaxLength="50" />
+    <Property Name="Store_Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Settlement_Day" Type="int" />
+    <Property Name="Auto_Settle" Type="bit" />
+    <Property Name="Email1_On_Off" Type="bit" />
+    <Property Name="Store_Status" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email2_On_Off" Type="bit" />
+    <Property Name="Email3_On_Off" Type="bit" />
+  </EntityType>
+  <EntityType Name="tblStoreEmployeeInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StoreId" Type="int" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="Store_Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Employee_Address" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblTerminal_Data1">
+    <Key>
+      <PropertyRef Name="TerminalData_Id1" />
+    </Key>
+    <Property Name="TerminalData_Id1" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Scratch_Payout" Type="nvarchar" MaxLength="50" />
+    <Property Name="Online_Sells" Type="nvarchar" MaxLength="50" />
+    <Property Name="Online_Payout" Type="nvarchar" MaxLength="50" />
+    <Property Name="Loan" Type="nvarchar" MaxLength="50" />
+    <Property Name="Cash_On_Hand" Type="nvarchar" MaxLength="50" />
+    <Property Name="Credit" Type="int" Nullable="false" />
+    <Property Name="Debit" Type="int" Nullable="false" />
+    <Property Name="Top_Up_Cancel" Type="int" Nullable="false" />
+    <Property Name="Top_Up" Type="int" Nullable="false" />
+    <Property Name="Store_Id" Type="int" />
+    <Property Name="Employee_Id" Type="int" />
+    <Property Name="Issued_Inventory" Type="nvarchar" MaxLength="50" />
+    <Property Name="InStock_Inventory" Type="nvarchar" MaxLength="50" />
+    <Property Name="Active_Inventory" Type="nvarchar" MaxLength="50" />
+    <Property Name="Total" Type="nvarchar" MaxLength="50" />
+    <Property Name="Scratch_Sells" Type="nvarchar" MaxLength="50" />
+    <Property Name="ShiftID" Type="int" />
+    <Property Name="Date" Type="date" />
+    <Property Name="CountRecevied" Type="int" />
+    <Property Name="CountActive" Type="int" />
+    <Property Name="Total_Stock_Inventory" Type="nvarchar" MaxLength="50" />
+    <Property Name="Total_Active_Inventory" Type="nvarchar" MaxLength="50" />
+    <Property Name="Net_Cash" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="User_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="U_Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="50" />
+    <Property Name="Shop_id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Shop_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+    <Property Name="S_Code" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TicketMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Game_Id" Type="nvarchar" MaxLength="50" />
+    <Property Name="Created_On" Type="date" />
+    <Property Name="Modified_ON" Type="date" />
+    <Property Name="State" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="LotteryBlankDatabaseModelStoreContainer">
+    <EntitySet Name="Box_Master" EntityType="Self.Box_Master" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Existing_Inventory" EntityType="Self.Existing_Inventory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="New_Inventory" EntityType="Self.New_Inventory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblActivated_Tickets" EntityType="Self.tblActivated_Tickets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblBarcode_Format" EntityType="Self.tblBarcode_Format" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblBox" EntityType="Self.tblBox" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblClose_Box" EntityType="Self.tblClose_Box" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblDeactivated" EntityType="Self.tblDeactivated" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblEmployee_Details" EntityType="Self.tblEmployee_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblLogin_Details" EntityType="Self.tblLogin_Details" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblLottery_Inventory" EntityType="Self.tblLottery_Inventory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblRecievedTickets" EntityType="Self.tblRecievedTickets" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblReturnticket" EntityType="Self.tblReturnticket" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSettleTicket" EntityType="Self.tblSettleTicket" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblShift" EntityType="Self.tblShift" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSoldout" EntityType="Self.tblSoldout" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblSoldOut_History" EntityType="Self.tblSoldOut_History" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblStore_Info" EntityType="Self.tblStore_Info" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblStoreEmployeeInfo" EntityType="Self.tblStoreEmployeeInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblTerminal_Data1" EntityType="Self.tblTerminal_Data1" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblUser" EntityType="Self.tblUser" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TicketMaster" EntityType="Self.TicketMaster" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

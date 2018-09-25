@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Lottery_ApplicationModelStoreContainer" CdmEntityContainer="Lottery_ApplicationEntities">
+    <EntitySetMapping Name="Box_Master">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.Box_Master">
+        <MappingFragment StoreEntitySet="Box_Master">
+          <ScalarProperty Name="Box_Id" ColumnName="Box_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Existing_Inventory">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.Existing_Inventory">
+        <MappingFragment StoreEntitySet="Existing_Inventory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Total_Count" ColumnName="Total_Count" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="New_Inventory">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.New_Inventory">
+        <MappingFragment StoreEntitySet="New_Inventory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Lottery_Name" ColumnName="Lottery_Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Start_Date" ColumnName="Start_Date" />
+          <ScalarProperty Name="Expiration" ColumnName="Expiration" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblActivated_Tickets">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblActivated_Tickets">
+        <MappingFragment StoreEntitySet="tblActivated_Tickets">
+          <ScalarProperty Name="Activate_Id" ColumnName="Activate_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Start_No" ColumnName="Start_No" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="End_No" ColumnName="End_No" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="Stopped_At" ColumnName="Stopped_At" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblBoxes">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblBox">
+        <MappingFragment StoreEntitySet="tblBox">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Box_Id" ColumnName="Box_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Paket_Id" ColumnName="Paket_Id" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="E_Id" ColumnName="E_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDeactivateds">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblDeactivated">
+        <MappingFragment StoreEntitySet="tblDeactivated">
+          <ScalarProperty Name="Deactivate_Id" ColumnName="Deactivate_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblRecievedTickets">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblRecievedTicket">
+        <MappingFragment StoreEntitySet="tblRecievedTickets">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Total_Price" ColumnName="Total_Price" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Start_No" ColumnName="Start_No" />
+          <ScalarProperty Name="End_No" ColumnName="End_No" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Stopped_At" ColumnName="Stopped_At" />
+          <ScalarProperty Name="IsDelete" ColumnName="IsDelete" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReturntickets">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblReturnticket">
+        <MappingFragment StoreEntitySet="tblReturnticket">
+          <ScalarProperty Name="Returnticket_Id" ColumnName="Returnticket_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PackPosition_Open" ColumnName="PackPosition_Open" />
+          <ScalarProperty Name="PackPosition_Close" ColumnName="PackPosition_Close" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSettleTickets">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblSettleTicket">
+        <MappingFragment StoreEntitySet="tblSettleTicket">
+          <ScalarProperty Name="SettleTicket_Id" ColumnName="SettleTicket_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PackPosition_Open" ColumnName="PackPosition_Open" />
+          <ScalarProperty Name="PackPosition_Close" ColumnName="PackPosition_Close" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblSoldouts">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblSoldout">
+        <MappingFragment StoreEntitySet="tblSoldout">
+          <ScalarProperty Name="Soldout_Id" ColumnName="Soldout_Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Packet_Id" ColumnName="Packet_Id" />
+          <ScalarProperty Name="Box_No" ColumnName="Box_No" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_On" ColumnName="Modified_On" />
+          <ScalarProperty Name="Ticket_Name" ColumnName="Ticket_Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="PackPosition_Open" ColumnName="PackPosition_Open" />
+          <ScalarProperty Name="PackPosition_Close" ColumnName="PackPosition_Close" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblUsers">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.tblUser">
+        <MappingFragment StoreEntitySet="tblUser">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="User_Id" ColumnName="User_Id" />
+          <ScalarProperty Name="User_name" ColumnName="User_name" />
+          <ScalarProperty Name="U_Password" ColumnName="U_Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Shop_id" ColumnName="Shop_id" />
+          <ScalarProperty Name="Shop_name" ColumnName="Shop_name" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="S_Code" ColumnName="S_Code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TicketMasters">
+      <EntityTypeMapping TypeName="Lottery_ApplicationModel.TicketMaster">
+        <MappingFragment StoreEntitySet="TicketMaster">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Game_Id" ColumnName="Game_Id" />
+          <ScalarProperty Name="Created_On" ColumnName="Created_On" />
+          <ScalarProperty Name="Modified_ON" ColumnName="Modified_ON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

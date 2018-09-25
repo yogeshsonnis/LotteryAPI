@@ -1,0 +1,1716 @@
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Gayatri\LotteryApplication_JUNE\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Lalita\Lottery26June\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Lalita\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Gayatri\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+E:\LotteryPackage\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Lalita\Nilesh\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+G:\Lalita\4 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+G:\Lalita\11 sep\LotteryNewAPINow\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Lalita\5Oct_Lottery\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+G:\Lalita\25Oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey L\25oct\Api\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\15NovAPI\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\26FEb\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\MigraDoc.DocumentObjectModel-WPF.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\MigraDoc.Rendering-WPF.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\MigraDoc.RtfRendering-WPF.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\PdfSharp-WPF.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\PdfSharp.Charting-WPF.dll
+D:\Vkey Lottery\25oct\GitLotteryAPI_28Dec\LotteryNewAPI\LotteryNewAPI\bin\TallComponents.PDF.Rasterizer.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\ApplicationInsights.config
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\csc.exe
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\vbc.exe
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.pdb
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Antlr3.Runtime.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Newtonsoft.Json.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Owin.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Helpers.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Mvc.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Optimization.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Razor.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\WebGrease.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Newtonsoft.Json.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Helpers.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Mvc.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Optimization.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Razor.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+E:\May Lottery\23May\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Owin.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey Lottery\Mail_LotteryApplication\LotteryNewAPI_16May\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+D:\Vkey Lottery\Git_Lottery_Final\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+E:\jyoti\7thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\ApplicationInsights.config
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\csc.exe
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\vbc.exe
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll.config
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\LotteryNewAPI.pdb
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Owin.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\WebGrease.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.DependencyCollector.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.Web.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AI.WindowsServer.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.ApplicationInsights.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Newtonsoft.Json.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Net.Http.Formatting.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Helpers.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.WebHost.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Mvc.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Optimization.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Razor.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Deployment.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.WebPages.Razor.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Antlr3.Runtime.pdb
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\EntityFramework.SqlServer.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Google.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\bin\System.Web.Http.Owin.xml
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.csprojResolveAssemblyReference.cache
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.dll
+E:\jyoti\15thSeptember\LotteryNewAPI\LotteryNewAPI\obj\Release\LotteryNewAPI.pdb
