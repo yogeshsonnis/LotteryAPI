@@ -122,8 +122,15 @@ namespace LotteryNewAPI.Controllers
                     v.EmailId1 = data.EmailId1;
                     if(data.EmailId2 != "" || data.EmailId3!="")
                     {
-                        v.EmailId2 = data.EmailId2;
-                        v.EmailId3 = data.EmailId3;
+                        if(data.EmailId2 == "")
+                        {
+                            v.EmailId2 = data.EmailId3;
+                        }
+                        else
+                        {
+                            v.EmailId2 = data.EmailId2;
+                            v.EmailId3 = data.EmailId3;
+                        }
                     }
                     if (v.No_Of_Boxes == null)
                     {
